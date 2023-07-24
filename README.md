@@ -12,7 +12,7 @@ The vision of the members of this project is to be able to offer a high-yield in
 Limiting the negative impact of the HEDGE project is obviously imperative, but having a positive impact is also essential.
 That's why this project also aims to determine how finance can help meet the social challenges of today and tomorrow.
 
-## 👨🏼‍💻🧑🏾‍💼TEAMS
+## 👨🏼‍💻 TEAMS 🧑🏾‍💼
 
 This project is structured into two main teams: 
 - The Data Science team: in charge of developing the Deep Learning algorithm and all that this entails (data gathering, Data Preparation, Model Planning, Model Building, Efficient Evaluation of Results, Operationalize).
